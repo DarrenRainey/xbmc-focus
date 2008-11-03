@@ -1,9 +1,0 @@
-#summary One-sentence summary of this page.
-
-= Links =
-
-*[http://xbmc.org/forum/forumdisplay.php?f=72 Focus forum @ xbmc.org]
-
-*[http://code.google.com/p/xbmc-favorites/ XBMC Favourites Plugin]
-
-*[http://code.google.com/p/voinage-xbmc-plugins/ XBMC plugins by Voinage]
