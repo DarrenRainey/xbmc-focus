@@ -12,7 +12,7 @@
             <description></description>
         </extension>
     </addon>
-    <addon id="skin.refocus.stable"  version="0.8.9.6" name="reFocus stable" provider-name="Jeroen">
+    <addon id="skin.refocus"  version="0.8.9.6" name="reFocus" provider-name="Jeroen">
         <requires>
             <import addon="xbmc.gui" version="3.00"/>
             <import addon="script.logo-downloader" version="2.3.0"/>
