@@ -10,7 +10,7 @@
         <datadir zip="true">http://xbmc-focus.googlecode.com/svn/trunk</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Jeroen's Add-ons for XBMC</summary>
+        <summary>Jeroen's XBMC add-ons</summary>
         <description>home of the reFocus skin</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
