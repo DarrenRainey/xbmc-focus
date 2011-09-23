@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repo.jeroen"
         name="Jeroen's repository"
-        version="1.0.0"
+        version="1.4.0"
         provider-name="Jeroen">
-    <extension point="xbmc.addon.repository"
+    <extension point="xbmc.repo.jeroen"
         name="Jeroen's Add-on Repository">
         <info>http://xbmc-focus.googlecode.com/svn/trunk/addons.xml</info>
         <checksum>http://xbmc-focus.googlecode.com/svn/trunk/addons.xml.md5</checksum>
