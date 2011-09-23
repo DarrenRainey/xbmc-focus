@@ -3,7 +3,7 @@
 
     <addon	id="repo.jeroen"
       name="Jeroen's repository"
-      version="1.3.0"
+      version="1.5.0"
       provider-name="Jeroen">
       <extension	point="xbmc.addon.repository"
         name="Jeroen's Add-on Repository">
