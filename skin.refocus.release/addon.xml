@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+ <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="skin.refocus"
-  version="0.9.1"
-  name="reFocus"
+  id="skin.refocus.release"
+  version="0.9.2t"
+  name="reFocus (release)"
   provider-name="Jeroen">
   <requires>
     <import addon="xbmc.gui" version="3.0"/>
