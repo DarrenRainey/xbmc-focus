@@ -1,6 +1,6 @@
 <addon id="repo.jeroen"
         name="Jeroen's repository"
-        version="1.5.0"
+        version="1.8.0"
         provider-name="Jeroen">
     <extension point="xbmc.repo.jeroen"
         name="Jeroen's Add-on Repository">
