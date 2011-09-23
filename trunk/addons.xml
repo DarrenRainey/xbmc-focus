@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
 <addons>
     <addon id="repo.jeroen" version="2.0.0" name="Jeroen's Repo" provider-name="Jeroen">
         <extension point="xbmc.addon.repository" name="Jeroen's Add-on Repo">
