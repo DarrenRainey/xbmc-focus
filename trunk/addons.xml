@@ -1,29 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon	id="repo.jeroen"
-      name="Jeroen's repository"
-      version="1.8.0"
-      provider-name="Jeroen">
-      <extension point="xbmc.addon.repository"
-        name="Jeroen's Add-on Repository">
-        <info>http://xbmc-focus.googlecode.com/svn/trunk/addons.xml</info>
-        <checksum>http://xbmc-focus.googlecode.com/svn/trunk/addons.xml.md5</checksum>
-        <datadir zip="true">http://xbmc-focus.googlecode.com/svn/trunk</datadir>
-      </extension>
-      <extension point="xbmc.addon.metadata">
-        <summary>Jeroen's XBMC add-ons</summary>
-        <description>home of the reFocus skin</description>
-        <disclaimer></disclaimer>
-        <platform>all</platform>
-      </extension>
+    <addon id="repo.jeroen" version="2.0.0" name="Jeroen's Repo" provider-name="Jeroen">
+        <extension point="xbmc.addon.repository" name="Jeroen's Add-on Repo">
+            <info>http://xbmc-focus.googlecode.com/svn/trunk/addons.xml</info>
+            <checksum>http://xbmc-focus.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+            <datadir zip="true">http://xbmc-focus.googlecode.com/svn/trunk</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Jeroen's XBMC add-ons</summary>
+            <description>home of the reFocus skin</description>
+            <disclaimer></disclaimer>
+            <platform>all</platform>
+        </extension>
     </addon>
-
-    <addon id="skin.refocus.release"  version="0.9.3" name="reFocus (release)" provider-name="Jeroen">
+    <addon id="skin.refocus.release" version="0.9.3" name="reFocus (release)" provider-name="Jeroen">
         <requires>
             <import addon="xbmc.gui" version="3.00"/>
             <import addon="script.logo-downloader" version="2.3.0"/>
         </requires>
-        <extension  point="xbmc.gui.skin" defaultresolution="720p"  defaultresolutionwide="720p" defaultthemename="Textures.xbt"  effectslowdown="1.00" debugging="false"/>
-            <extension point="xbmc.addon.metadata">
+        <extension point="xbmc.gui.skin" defaultresolution="720p" defaultresolutionwide="720p" defaultthemename="Textures.xbt" effectslowdown="1.00" debugging="false">
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Jeroen's XBMC add-ons</summary>
             <platform>all</platform>
             <summary>reFocus by Jeroen</summary>
             <summary lang="nl">reFocus door Jeroen</summary>
@@ -40,7 +38,6 @@
             <disclaimer lang="es"></disclaimer>
             <disclaimer lang="pl"></disclaimer>
             <disclaimer lang="de"></disclaimer>
-            <platform>all</platform>
         </extension>
     </addon>
 </addons>
