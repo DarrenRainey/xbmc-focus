@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-
 	<addon id="skin.refocus" version="1.1.0-PR" name="reFocus" provider-name="Jeroen">
 		<requires>
 			<import addon="xbmc.gui" version="5.0.1"/>
@@ -29,7 +28,6 @@
 			<source>https://github.com/jeroenpardon/skin.refocus/</source>
 		</extension>
 	</addon>
-
     <addon id="skin.refocus" version="1.1.0-repotest" name="reFocus" provider-name="Jeroen">
 		<requires>
 			<import addon="xbmc.gui" version="5.0.1"/>
@@ -58,17 +56,16 @@
 			<source>https://github.com/jeroenpardon/skin.refocus/</source>
         </extension>
     </addon>
-
 	<addon id="xbmc.repo.jeroen" name="Jeroen's Add-on Repository" version="1.0.1" provider-name="Jeroen">
 		<extension point="xbmc.addon.repository" name="Jeroen's Add-on Repository">
 			<info>http://xbmc-focus.googlecode.com/svn/trunk/addons.xml</info>
 			<checksum>http://xbmc-focus.googlecode.com/svn/trunk/addons.xml.md5</checksum>
-			<datadir zip="true">http://xbmc-focus.googlecode.com/svn/trunk</datadir>
+			<datadir zip="true">http://xbmc-focus.googlecode.com/svn/trunk/</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
-			<summary>Jeroen's Add-ons for XBMC</summary>
-			<description>Home of the reFocus skin.</description>
-			<disclaimer>-</disclaimer>
+			<summary>Jeroen's Add-on Repository</summary>
+			<description>Home of the reFocus skin</description>
+			<disclaimer></disclaimer>
 			<platform>all</platform>
 		</extension>
 	</addon>
